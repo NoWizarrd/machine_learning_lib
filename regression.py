@@ -1,1 +1,1 @@
-sadasds
+print("hello")
